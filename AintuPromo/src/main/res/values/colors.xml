@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="divider">#727272</color>
+    <color name="colorPrimary">#f55b5d</color>
+    <color name="colorPrimaryDark">#C50C0C</color>
+    <color name="colorAccent">#2196F3</color>
+    <color name="secand_border_color">#b7b7b7</color>
+
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="grey_background">#EEEEEE</color>
+    <color name="grey_dark_background">#888</color>
+    <color name="light_orange_background">#FFF9E0BA</color>
+    <color name="green">#FF27A404</color>
+    <color name="blue">#2196F3</color>
+    <color name="pink_light">#F45C5C</color>
+    <color name="colorOrange">#FFE0B2</color>
+    <color name="grey">#E0E0E0</color>
+
+</resources>

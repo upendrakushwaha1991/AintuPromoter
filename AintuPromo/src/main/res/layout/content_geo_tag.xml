@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<fragment xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:name="com.google.android.gms.maps.SupportMapFragment"
+    android:id="@+id/map"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/custom_margin"
+    android:paddingLeft="@dimen/custom_margin"
+    android:paddingRight="@dimen/custom_margin"
+    android:paddingTop="@dimen/custom_margin"
+    tools:context="com.cpm.aintupromoter.GeoTag.GeoTagActivity"
+    tools:showIn="@layout/activity_geo_tag">
+
+</fragment>

@@ -1,0 +1,337 @@
+<resources>
+    <string name="app_name">AintuPromoter</string>
+    <string name="search_hint">Search</string>
+    <string name="close_button">&#xf00d;</string>
+    <string name="fa_calendar">&#xf073;</string>
+    <string name="open_location_settings">Open Location Setting</string>
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="Cancel">Cancel</string>
+    <!-- <string name="prompt_password">Password (optional)</string>-->
+    <!-- <string name="action_sign_in">Sign in or register</string>-->
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."
+    </string>
+    <string name="title_activity_login">Sign in</string>
+    <string name="save">Save</string>
+    <string name="action_sign_in">Login</string>
+
+    <string name="prompt_userid">Username</string>
+    <string name="prompt_password">Password</string>
+
+    <string name="brand">Brand</string>
+    <string name="display">Display</string>
+    <string name="image">Image</string>
+    <string name="gaps">Gaps</string>
+    <string name="sku">Sku</string>
+    <string name="ref_image">Ref. Image</string>
+    <string name="present">Present</string>
+    <string name="stock">Stock</string>
+    <string name="select">Select</string>
+    <string name="add">Add</string>
+    <string name="cancel">Cancel</string>
+
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="brandname">Brand Name</string>
+    <string name="skuname">SKU Name</string>
+    <string name="quantity">Quantity</string>
+    <string name="delete">Delete</string>
+    <string name="StoreVisited"> Store Visited</string>
+    <string name="GSKMT">GSK MT ORANGE STORE</string>
+    <string name="address">C 126, Okhla II,</string>
+    <string name="storefront">Click Store Front Image</string>
+
+    <string name="select_language">Please select language</string>
+    <string name="title_activity_select_language">Select Language</string>
+
+    <string name="title_activity_store_list">Store List</string>
+
+    <string name="title_activity_store_geotag">Geo Tag</string>
+
+    <!--
+    <string name="menu_daily_route_plan">Daily Route Plan</string>
+    -->
+    <string name="menu_daily_route_plan">Daily Entity</string>
+    <string name="menu_daily_download">Daily Data Download</string>
+    <string name="menu_upload_data">Upload Data</string>
+    <string name="upload_data_msg">Data uploaded successfully</string>
+
+    <string name="menu_search_data">Export</string>
+
+    <string name="menu_geotag">Geo Tag</string>
+    <string name="menu_export">Data Export</string>
+
+    <string name="menu_exit">Exit</string>
+    <string name="menu_setting">Settings</string>
+    <string name="menu_services">Services</string>
+
+    <string name="title_activity_t2_pcompliance">Monthly Visibility</string>
+
+    <!--Gagan start code-->
+    <string name="title_activity_category_list">Category List</string>
+    <string name="title_activity_category_wise_performance">Categorywise Performance</string>
+    <string name="title_activity_daily_main_menu">Daily Data Menu</string>
+    <string name="title_activity_msl__availability">SKU Availability</string>
+    <string name="title_activity_stock_facing">Stock and Facing</string>
+
+    <string name="daily_data_menu_msl_availability">SKU Availability</string>
+    <string name="daily_data_menu_stock_facing">Stock and Facing</string>
+    <string name="daily_data_menu_t2p">Monthly Visibility</string>
+    <string name="daily_data_menu_additional_visibility">Additional Visibility</string>
+    <string name="daily_data_menu_promo_compliance">Promo Compliance</string>
+    <string name="daily_data_menu_competition_tracking">Competition Visibility</string>
+    <string name="daily_data_menu_additional_promotions">Competition Promo</string>
+
+    <string name="msl_availability_sku">SKU Name</string>
+    <string name="msl_availability_mbq">MBQ</string>
+    <string name="msl_availability_availability">Availability</string>
+
+    <string name="stock_facing_reference_image">Reference Image</string>
+    <string name="stock_facing_sku_name">SKU Name</string>
+    <string name="stock_facing_stock">Stock</string>
+    <string name="stock_facing_faceup">Facing</string>
+    <string name="stock_facing_sos_target">SOS Target</string>
+    <string name="stock_facing_sos">SOS</string>
+    <!--Gagan end code-->
+
+    <string name="title_geo_tag_activity_upload_data">Store Uploaded</string>
+    <string name="title_geo_tag_activity_geo_data">Store Geo Data Uploaded</string>
+    <string name="title_geo_tag_activity_geo_already_done">Store Already Geotagged</string>
+
+    <string name="title_store_list_activity_store_already_done">Store Already Uploaded</string>
+    <string name="title_store_list_activity_store_data_uploaded">Store Data Uploaded</string>
+    <string name="title_store_list_activity_store_already_checkout">Store Already Checkout</string>
+    <string name="title_store_list_activity_store_again_uploaded">Please Upload data again</string>
+    <string name="title_store_list_activity_store_closed">Store Closed</string>
+    <string name="title_store_list_activity_already_store_closed">Store Already Closed</string>
+
+    <string name="title_store_list_checkout_current">Please checkout from current store</string>
+    <string name="title_store_list_checkout_Already_filled">Data already filled</string>
+
+    <string name="title_store_list_download_data">Please Download Data First</string>
+
+    <string name="enter_the_values">Enter the values</string>
+
+    <string name="title_activity_upload">Upload Data</string>
+    <string name="no_data_for_upload">No Data For Upload</string>
+    <string name="first_checkout_store">First checkout of store</string>
+
+    <!--Gagan start new code 1-->
+    <string name="title_activity_promo_compliance">Promotion Compliance</string>
+
+    <string name="promo_compliance_additional_promo">Additional Promos</string>
+    <string name="promo_compliance_promo">Promos</string>
+    <string name="promo_compliance_promos_sku">Promos SKU</string>
+    <string name="promo_compliance_sku">SKU</string>
+    <string name="promo_compliance_inStock">In Stock</string>
+    <string name="promo_compliance_promoAnnouncer">Promo Announcer</string>
+    <string name="promo_compliance_runningPOS">Running on POS</string>
+    <string name="promo_compliance_add">Add</string>
+
+    <string name="category_performance_period">Period</string>
+    <string name="category_performance_msl_availability">MSL</string>
+    <string name="category_performance_sos">SOS</string>
+    <string name="category_performance_t2p">T2P</string>
+    <string name="category_performance_promo">Promo</string>
+    <string name="category_performance_oss">OSS</string>
+    <string name="category_performance_PLANOGRAM">Planogram</string>
+    <string name="category_performance_ltm">LTM</string>
+    <string name="category_performance_mtd">MTD</string>
+    <string name="category_performance_lsv">LSV</string>
+
+    <string name="title_activity_store_wise_performance">Store wise Performance</string>
+    <!--Gagan end new code 1-->
+
+
+    <string name="AdditionalDisplay">Is there any Additional Display</string>
+    <string name="Display">Display</string>
+    <string name="Photo">Photo</string>
+    <string name="title_activity_Additional_visibility">Additional Visibility</string>
+
+    <string name="title_activity_Want_save"> Are you sure you want to save</string>
+    <string name="title_activity_Want_add"> Please Add Data</string>
+    <string name="title_activity_Want_to_add">Are you sure you want to add</string>
+    <string name="title_activity_Want_to_delete"> Do You Want To Delete Data</string>
+    <string name="store"> store</string>
+    <string name="title_activity_Want_to_delete1"> Do You Want To Delete</string>
+    <string name="title_activity_click_delete">Click Yes To Delete!</string>
+    <string name="title_activity_select_dropdown">Please Select dropdown</string>
+    <string name="title_activity_take_image">Please Take a image</string>
+
+    <string name="title_activity_fill_sku">Please fill sku data</string>
+    <string name="title_activity_enter_quantity">Please enter Quantity</string>
+    <string name="title_activity_save_data">Do you want to save the data</string>
+
+    <string name="clickimage">Please click the image</string>
+    <string name="gps">GPS IS DISABLED...</string>
+    <string name="gpsebale">Click ok to enable GPS.</string>
+    <string name="takeimage"> Please Take Image</string>
+    <string name="notsuppoted">This device is not supported.</string>
+    <string name="uploaddata">Uploading Data</string>
+    <string name="geotagdata">Uploading Geotag Data...</string>
+    <string name="failure">failure</string>
+    <string name="geotag_done">Geotag Done</string>
+    <string name="geotag">Geotag Saved Successfully</string>
+
+    <string name="uploadimge">Uploading Geotag Images</string>
+    <string name="success">success</string>
+    <string name="wantcheckout">Are you sure you want to Checkout</string>
+    <string name="nonetwork"> No Network Connection. Please Check Your Internet Connection</string>
+
+    <string name="title_activity_Non_Work">Non Working Reason</string>
+    <string name="closed">Close</string>
+
+    <string name="click_image">Please click image</string>
+    <string name="fill_sku_data">Please fill SKU data</string>
+    <string name="fill_gaps_data">Please fill GAP data</string>
+    <string name="data_will_be_lost">Want to proceed unsaved data will be deleted</string>
+
+    <string name="download_data">Downloading Data</string>
+    <string name="store_visited">Store Visited</string>
+    <string name="store_image">Click Store Front Image</string>
+
+    <string name="title_activity_store_image">Store Front Image</string>
+    <string name="reason">Reason</string>
+    <string name="select_reason">Select Reason</string>
+    <string name="daily_activity_menu">Daily Data Menu</string>
+
+    <!--Gagan start new code 2-->
+    <string name="stock_facing_planogram_dialog_title">Reference Image</string>
+    <string name="title_activity_settings">Settings</string>
+
+    <string name="ok">OK</string>
+    <string name="check_save_message">Are you sure you want to save</string>
+    <string name="save_message">Data has been saved</string>
+    <string name="update_message">Data has been updated</string>
+    <string name="empty_field">Fill the value </string>
+    <string name="fill_data">Please fill all the data</string>
+    <string name="dialog_title">Parinaam</string>
+    <!--Gagan end new code 2-->
+
+    <string name="select_language_item">Select language</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_checkout">Checkout Activity</string>
+    <string name="checkout_successful">Checkout Success</string>
+
+    <string name="NetworkError">Network Error ,</string>
+    <string name="DataNot"> Data Not Uploaded ,</string>
+    <string name="displayname">Display Name</string>
+    <string name="adddatatoclick">Click Yes To Add Data</string>
+    <string name="Remark">Remark</string>
+    <string name="pleaseenterRemarks">Please fill Remark</string>
+
+    <string name="title_activity_service">Service</string>
+
+    <string name="data_downloaded_successfully">Data downloaded successfully</string>
+    <string name="export_database">Export Database</string>
+    <string name="data_exported_successfully">Database Exported Successfully</string>
+
+    <string name="uploadeddata">Uploaded Data</string>
+
+    <string name="previous_data_upload">Please Upload Previous Data First</string>
+
+    <string name="error_incorrect_username">This username is incorrect</string>
+
+    <string name="error">Error Uploading</string>
+
+
+    <string name="gallery">Gallery</string>
+    <string name="camera">Camera</string>
+
+    <string name="DELETE_ALERT_MESSAGE">Saved data will be lost - Do you want to continue?</string>
+    <string name="NodataAvailable">
+No store found according to provided information, please add the store.</string>
+    <string name="Pleasedownaloaddata">Please download data</string>
+
+    <!--Gagan start code 3-->
+    <string name="empty">Empty</string>
+    <string name="check_faceup">Faceup can not be greater than stock value</string>
+    <string name="fill_stock_value">First fill the stock value</string>
+    <string name="want_add">Are you sure you want to add</string>
+    <string name="promo_add">promo is added</string>
+    <string name="select_promo_value">Select the promo value</string>
+    <string name="select_promo">Select</string>
+
+    <!--Gagan end code 3-->
+
+    //text for uploading screen
+    <string name="coverage_data_uploading">Coverage Uploading</string>
+    <string name="availability_data_uploading">Availability Data Uploading</string>
+    <string name="stock_data_uploading">Stock Data Uploading</string>
+    <string name="t2p_data_uploading">T2P Data Uploading</string>
+    <string name="additional_data_uploading">Additional Visibility Data Uploading</string>
+    <string name="promo_data_uploading">Promo Data Uploading</string>
+
+    <string name="Areyou_sure_take_backup"> Are you sure you want to take the backup of your data</string>
+
+    <string name="first_geotag_the_store">First geotag the store</string>
+
+    <string name="new_update_available">New Update Available</string>
+
+    <string name="title_activity_stock_facing__planogram_tracker">Planogram Tracker</string>
+
+    <string name="datanotfound">Data not found in</string>
+
+    <string name="title_activity_t2p_brand__avaibility">T2pBrand_Avaibility</string>
+    <string name="title_activity_fill_brand">Please fill brand data</string>
+
+    <!--Stock Facing Planogram Tracker-->
+    <string name="stock_planogram_data_uploading">Stock Planogram Data Uploading</string>
+
+    <string name="daily_data_menu_category_picture">Category Pictures</string>
+    <string name="title_activity_category_picture">CategoryPicture</string>
+
+    <string name="stock_planogram_data_noCamera_data">Please fill the no camera data</string>
+    <string name="stock_planogram_shelf">Shelf </string>
+    <string name="stock_planogram_shelf_position"> Position </string>
+    <string name="stock_planogram_already_exists">is already exists</string>
+    <string name="stock_planogram_data_select_one_sku">Please select atleast one sku</string>
+    <string name="stock_planogram_data_add_shelf">Add sku, shelf can not be empty</string>
+
+    <string name="stock_planogram_data_add_shelf_position_already_exists">Shelf/ Position already exists</string>
+
+    <string name="stock_planogram_add_shelf">Add Shelf</string>
+    <string name="stock_planogram_add_sku">Add Sku</string>
+    <string name="stock_planogram_add_sku_to_shelf">Add Sku to Shelf</string>
+    <string name="stock_planogram_planogram_tracker">Planogram Tracker</string>
+    <string name="stock_planogram_position_on_shelf">Position on Shelf</string>
+
+    <!--Change 06-03-2017-->
+    <string name="title_activity_store_checkout_image">Store Check out Image</string>
+    <string name="store_checkout">Click Store CheckOut Image</string>
+    <string name="faceup_value">Please fill faceup value or fill 0 </string>
+    <string name="stock_value">Please fill stock value or fill 0 </string>
+    <string name="check_stock">Stock can not be greater equal than MBQ value</string>
+    <string name="msl_availability_new_stock_value">Please first fill the stock value </string>
+
+    <string name="check_faceing">Faceup can not be greater than or equal to MBQ value</string>
+    <string name="title_activity_future_jcp">FutureJ CP</string>
+
+    <string name="future_route_plan"> Route Plan Lookup</string>
+
+    <string name="select_date">Select Date</string>
+    <string name="no_route_plan_for_day">No Route Plan for the day</string>
+    <string name="msg_select_present">Please select present </string>
+
+    <string name="please_select_answer">Please select answer</string>
+    <string name="title_activity_main">MainActivity</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+
+    <string name="google_maps_key1" templateMergeStrategy="preserve" translatable="false">AIzaSyAxvnkhC05o_nJxVhDW9TQilRyxlrP_f0s</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="alertmessage">Are you sure you want to Checkout? \n\n You will not be able to enter more data in store today.</string>
+    <string name="title_activity_routetraining">Route Training</string>
+
+</resources>
